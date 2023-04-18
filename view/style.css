@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+    background:#cfd9d68f;
+}
+
+.box{
+    width: 300px;
+    padding: 100px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    background-color: chocolate;
+    text-align: center;
+}
+.header{
+    background-color: rgb(86, 179, 215);
+    display: flex;
+    align-items: center;
+    left: 200px;
+}
+.BDRailway{
+    left: 110px;
+    font-style: inherit;
+    font: size 40px;
+    font-weight: 100;
+    font-family: Times New Roman;
+    color:black
+}
+.payment_option{
+    width:70vw;
+    height: 50vh;
+    position: absolute;
+    top: 35%;
+    background-color: rgb(86, 179, 215);
+    left:16%;
+    border-radius:50px;
+    
+}
+.Text h1{
+    font-family: Times New Roman;
+    text-align: center;
+    color: rgb(10, 10, 10);
+
+}
+.Logo{
+    margin-left: 50px;
+    height: 5vh;
+    width: 5vw;
+    float: left;
+    padding: 20px;
+}
+.bkash{
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    left:5%;
+    top: 40%;
+}
+.nagad{
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    left:30%;
+    top: 40%;
+}
+.visa{
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    left:55%;
+    top: 40%;
+}
+.master{
+    width: 10vw;
+    height: 10vh;
+    position: absolute;
+    left:80%;
+    top: 40%;
+}
+.design{
+    width:20vw;
+    height: 90vh;
+    position: absolute;
+    top: 5%;
+    background-color: rgb(131, 206, 206);
+    right:6%;
+    border-radius:50px;
+    font-family: Times New Roman;
+    color: #000000;
+}
+.back{
+    width:30vw;
+    height: 45vh;
+    position: absolute;
+    top: 7%;
+    background-color: rgb(131, 206, 206);
+    right:11%;
+    border-radius:50px;
+    font-family: Times New Roman;
+}
+text{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(10, 10, 10);
+}
+.final_page{
+    width:70vw;
+    height: 30vh;
+    position: absolute;
+    top: 35%;
+    background-color: rgb(86, 179, 215);
+    left:16%;
+    border-radius:50px;
+}
+.finalheader{
+    background-color: rgb(86, 179, 215);
+    display: flex;
+    align-items: center;
+    width: 1920px;
+}
