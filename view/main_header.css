@@ -1,0 +1,33 @@
+body{
+    background: url("");
+    background-repeat: no-repeat;
+    background-size: 1537px 754px;
+    background-position: fixed;
+    font-family: "Times New Roman", Times, serif;
+}
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+.site-logo .header-logo {
+  display: flex;
+  align-items: center;
+  color: #DA924E;
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+}
+.site-logo .header-logo .header-logo-img {
+  margin-right:10px;
+}
+.site-logo .header-logo-text {
+  align-items: center;
+  color: #DA924E;
+  font-weight: 700;
+  font-size: 20px;
+}
+.main-header {
+  padding: 15px 0 15px;
+}
+header.new-header .site-wrapper {
+  padding: 0 5px 0 0;
+}

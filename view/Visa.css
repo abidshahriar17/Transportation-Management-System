@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #cfd9d68f;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    background-color: chocolate;
+    text-align: center;
+}
+.header{
+    background-color: rgb(86, 179, 215);
+    display: flex;
+    align-items: center;
+    left: 200px;
+}
+.BDRailway{
+    left: 110px;
+    font-style: inherit;
+    font: size 40px;
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(8, 8, 8);
+}
+.parent{
+    width: 500px;
+    height: 400px;
+    background-color:whitesmoke;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    margin: auto;
+    padding: 5px;      
+}
+.mastercard{
+    width: 10vw;
+    height: 10vh;
+    display: block;
+    margin: auto;
+    border-radius: 120px;
+    padding: 10px;
+
+}
+.number{
+    display: block;
+    margin:auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+.child{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.child p{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(71, 161, 240);
+}
+.parent{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#btn{
+    display: block;
+    margin: auto;
+    width: 50%;
+    /* margin-left: 200px; */
+    padding: 2px;
+    margin-top: 20px;
+    color: rgb(253, 253, 252);
+    border-radius: 10px;
+    background-color: rgb(6, 6, 150);
+
+}
+.input{
+    border-radius: 10px;
+    background-color: rgb(6, 6, 150);
+    padding: 5px;
+
+}
+.child p{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: x-large;
+    padding-top: 20px;
+    color: rgb(7, 7, 7);
+}
